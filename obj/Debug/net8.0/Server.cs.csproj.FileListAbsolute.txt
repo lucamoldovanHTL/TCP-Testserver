@@ -1,0 +1,21 @@
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\server.crt
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\server.p12
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\Server.cs.deps.json
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\Server.cs.runtimeconfig.json
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\Server.cs.dll
+C:\Users\lucam\AppData\Local\Temp\claude\d0a010a99a23f52f\2b61ee84-e16f-4549-8681-caa0172d29c8\scratchpad\build\Server.cs.pdb
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.AssemblyInfoInputs.cache
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.AssemblyInfo.cs
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.csproj.CoreCompileInputs.cache
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.dll
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\refint\Server.cs.dll
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.pdb
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\Server.cs.genruntimeconfig.cache
+C:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\obj\Debug\net8.0\ref\Server.cs.dll
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\server.crt
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\server.p12
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\Server.cs.deps.json
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\Server.cs.runtimeconfig.json
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\Server.cs.dll
+c:\Users\lucam\Downloads\Socketserver 1\Socketserver\Server.cs\bin\Debug\net8.0\Server.cs.pdb
